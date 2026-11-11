@@ -1,0 +1,6 @@
+{
+  "name": "SB Writer",
+  "description": "Aplikasi profesional penulisan novel dan buku oleh SB_Media Production dengan asisten pintar SB_AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
